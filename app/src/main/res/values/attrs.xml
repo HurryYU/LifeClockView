@@ -14,7 +14,7 @@
         <attr name="lcv_center_circle_color" format="color" />
 
         <attr name="lcv_pointer_line_width" format="dimension" />
-        <attr name="lcv_pointer_line_color" format="dimension" />
+        <attr name="lcv_pointer_line_color" format="color" />
 
         <attr name="lcv_current_max_age" format="integer" />
     </declare-styleable>

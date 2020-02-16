@@ -16,7 +16,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:hint="请输入年龄" />
+        android:hint="请输入年龄"
+        android:inputType="number" />
 
     <Button
         android:id="@+id/btn_calc_life"
