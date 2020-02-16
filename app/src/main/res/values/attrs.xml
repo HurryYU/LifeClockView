@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LifeClockView">
+        <attr name="lcv_age_text_color" format="color" />
+        <attr name="lcv_past_age_text_color" format="color" />
+        <attr name="lcv_age_text_size" format="dimension" />
+        <attr name="lcv_age_text_offset" format="dimension" />
+
+        <attr name="lcv_zero_age_down_circle_radius" format="dimension" />
+        <attr name="lcv_zero_age_down_circle_color" format="color" />
+        <attr name="lcv_zero_age_down_circle_offset" format="dimension" />
+
+        <attr name="lcv_center_circle_radius" format="dimension" />
+        <attr name="lcv_center_circle_color" format="color" />
+
+        <attr name="lcv_pointer_line_width" format="dimension" />
+        <attr name="lcv_pointer_line_color" format="dimension" />
+
+        <attr name="lcv_current_max_age" format="integer" />
+    </declare-styleable>
+</resources>
